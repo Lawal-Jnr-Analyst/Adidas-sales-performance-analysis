@@ -17,7 +17,7 @@ The goal is to help stakeholders identify high-performing regions, optimize inve
 
 
 ## 🖥️ Preview
-![Dashboard](https://github.com/Lawal-Jnr-Analyst/Adidas-sales-performance-analysis/blob/main/ADIDAS%20Dashboard.jpg)
+[Adidas Dashboard](https://github.com/Lawal-Jnr-Analyst/Adidas-sales-performance-analysis/blob/main/ADIDAS%20Dashboard.jpg)
 >click the image above to see a preview of the final dashboard.
 
 
